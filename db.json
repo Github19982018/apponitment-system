@@ -1,0 +1,48 @@
+{
+  "main": [
+    {
+      "id":"admin",
+      "admin": [
+        {
+          "name": "John doe",
+          "id": "john_doe",
+          "events": [
+            {
+              "id":"1",
+              "name": "John doe",
+              "title": "meeting",
+              "date": ""
+            },
+            {
+              "id":"2",
+              "name": "jo",
+              "title": "walking",
+              "date": ""
+            }
+          ]
+        }
+      ]
+    },
+    { "id":"customer",
+      "customer": [
+      {
+        "name": "John doe",
+        "id": "john_doe",
+        "events": [
+          {
+            "id":"1",
+            "name": "John doe",
+            "title": "meeting",
+            "date": ""
+          },
+          {
+            "id":"2",
+            "name": "jo",
+            "title": "walking",
+            "date": ""
+          }
+        ]
+      }
+    ] }
+  ]
+}

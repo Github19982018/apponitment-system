@@ -1,0 +1,5 @@
+.form-wrapper {
+    top:50%;
+    position:fixed;
+    z-index: 100;
+}
